@@ -14,5 +14,5 @@
 #### 3. Install the required node_modules
 `npm install` or `npm i`
 
-#### 4 Run
+#### 4. Run
 `npm start`
