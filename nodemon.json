@@ -1,0 +1,7 @@
+{
+  "quiet": true,
+  "watch": ["./index.js"],
+  "events": {
+    "start": "cls"
+  }
+}
